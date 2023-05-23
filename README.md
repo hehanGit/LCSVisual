@@ -1,2 +1,2 @@
 # LCSVisual
-专机调试工具
+https://hehangit.github.io/LCSVisual/
